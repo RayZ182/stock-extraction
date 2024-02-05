@@ -1,1 +1,1 @@
-Ungraded Coursera notebook about tesla and gamestop stocks.
+ Coursera notebook about tesla and gamestop stocks.
